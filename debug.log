@@ -1,0 +1,4 @@
+[1021/153350.157:ERROR:settings.cc(430)] Settings version is not 5
+[1021/154350.590:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hp\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c1de731f-6cb9-4aef-9833-ea50587a681c: The system cannot find the path specified. (0x3)
+[1021/154350.620:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1023/112558.986:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
